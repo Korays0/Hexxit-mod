@@ -1,0 +1,2 @@
+# Hexxit-mod
+Minecraft hexxit
